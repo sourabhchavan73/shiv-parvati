@@ -1,0 +1,56 @@
+@media (max-width: 576px){
+    .main h1 {
+        font-size: 26px;
+    }
+
+    .about-us h2, .our-services h2, .gallry h2, footer h3  {
+        font-size: 24px;
+    }
+
+    .about-us p, .services-block p {
+        font-size: 15.5px;
+    }
+
+    .our-services-main-row .col-lg-4:not(:nth-child(-1n+3)) {
+        margin-top: 0em;
+    }
+
+    .count-box h2 {
+        font-size: 35px;
+    }
+
+    form {
+        padding: 60px 10px 50px;
+    }
+
+    footer .col-lg-3 {
+        display: flex;
+        justify-content: flex-start;
+        margin-top: 2em;
+    }
+
+    .footer-copyright {
+        display: block;
+    }
+
+    footer .section-padding {
+        padding: 1em 0 3em 0;
+    }
+
+    .count-box-row .col-lg-3:not(:nth-child(-1n+2)){
+        margin-top: 2em;
+    }
+
+    .count .section-padding {
+        padding: 3em 0 20em 0;
+    }
+
+    .form {
+        margin-top: -254px;
+        padding-bottom: 4em;
+    }
+
+    
+
+
+}
